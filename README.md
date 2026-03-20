@@ -11,7 +11,7 @@
   <a href="https://linktr.ee/4iurchenko">
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://dzone.com/users/5131498/4iurchenko.html">
+  <a href="https://dzone.com/users/4450592/4iurchenko.html">
     <img src="https://img.shields.io/badge/DZone-Author-orange?style=for-the-badge" alt="DZone"/>
   </a>
 </p>
