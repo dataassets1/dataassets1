@@ -1,4 +1,4 @@
-<h1 align="center">Iurii (Yurri) Iurchenko, FACHDM</h1>
+<h1 align="center">Iurii Iurchenko, FACHDM</h1>
 
 <p align="center">
   <strong>Senior Data Engineer · Microsoft Fabric Expert · Healthcare Data Leader</strong>
